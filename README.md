@@ -12,8 +12,6 @@ This project focuses on enhancing safety in the mining industry by utilizing a r
 - [Proposed Methodology](#proposed-methodology)
 - [Results and Discussion](#results-and-discussion)
 - [Conclusion](#conclusion)
-- [References](#references)
-- [Appendix](#appendix)
 
 ## Introduction
 
@@ -60,14 +58,4 @@ The project's results were visualized using MATLAB to provide an overall underst
 
 The mine scouting robot project demonstrates the potential of integrating sensors into autonomous robots to improve miner safety. By collecting data on gas concentration, temperature, light, and terrain conditions, the robot contributes to reducing the risks associated with mining activities.
 
-## References
 
-[1] Reference sources you've used.
-
-## Appendix
-
-This section contains the code snippets and additional project details.
-
----
-
-**Note**: This is a sample README file. Please make sure to tailor it to your project's specific details and content.
