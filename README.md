@@ -1,4 +1,4 @@
-# Mine Scouting Robot Project
+# Mine Scouting Robot
 
 ## Abstract
 
